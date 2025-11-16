@@ -1,1 +1,3 @@
+# What I have learned from this course
+
 I have learned how powerful the Linux operating system is when it comes to navigating and managing files efficiently through the command line. Understanding essential commands, directory structures, and permission handling has improved my confidence in working within a Unix-based environment. I have also gained valuable skills in version control using Git, such as tracking changes, committing updates, and collaborating through branches. These skills have helped me develop better discipline in organizing my work and have shown me the importance of maintaining clean, well-documented project histories.
